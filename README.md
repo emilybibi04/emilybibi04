@@ -34,8 +34,23 @@ Sistema de ventas orientado a la gestión de productos y pedidos en una helader�
 
 - **Estado:** Finalizado  
 - **Lenguajes/Tecnologías:** Java, Programación Orientada a Objetos (POO)  
-- **Descripción:** Proyecto colaborativo desarrollado para la materia de Programación Orientada a Objetos. Incluye módulos para gestión de usuarios, productos, pedidos y reportes.
+- **Descripción:** Proyecto colaborativo desarrollado para la materia de Programación Orientada a Objetos.
 
+### 📌 [SISTEMA VEHICULAR - Sistema de Pago de Multas de Vehículos](https://github.com/emilybibi04/POO4_1P_G8_JimenezSuarezValarezo)
+
+Sistema de ventas orientado a la gestión de pago de multas de vehículos
+
+- **Estado:** Finalizado  
+- **Lenguajes/Tecnologías:** Java, Programación Orientada a Objetos (POO)  
+- **Descripción:** Proyecto colaborativo desarrollado para la materia de Programación Orientada a Objetos.
+
+### 📌 [TURBO CAR - Venta y Catálogo de Vehículos](https://github.com/emilybibi04/ED_P1_Grupo12_Repositorio)
+
+Sistema de venta y catálogo de vehículos.
+
+- **Estado:** Finalizado  
+- **Lenguajes/Tecnologías:** Java, Estructura de Datos (ED)
+- **Descripción:** Proyecto colaborativo desarrollado para la materia de Estructura de Datos.
 ---
 
 ## 💡 Intereses y Tecnologías
@@ -44,7 +59,7 @@ Sistema de ventas orientado a la gestión de productos y pedidos en una helader�
 - **Lenguajes de programación:**  
   `HTML`, `Python`, `SQL`, `Java`
 - **Bases de datos:** MySQL
-- **Otras habilidades:** Git, GitHub, diseño de interfaces, trabajo en equipo
+- **Otras habilidades:** GitHub, diseño de interfaces, trabajo en equipo
 
 ---
 
