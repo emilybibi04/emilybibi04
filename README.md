@@ -51,6 +51,7 @@ Sistema de venta y catálogo de vehículos.
 - **Estado:** Finalizado  
 - **Lenguajes/Tecnologías:** Java, Estructura de Datos (ED)
 - **Descripción:** Proyecto colaborativo desarrollado para la materia de Estructura de Datos.
+  
 ---
 
 ## 💡 Intereses y Tecnologías
