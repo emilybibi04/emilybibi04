@@ -1,4 +1,4 @@
-# 👩‍💻 Emily Valarezo Plaza – Portafolio Personal
+# 👩‍💻 Emily Valarezo Plaza
 
 Bienvenido/a a mi sitio personal. Aquí encontrarás información sobre mí, mis proyectos académicos y personales, así como mis intereses en el área de tecnología y desarrollo de software.
 
